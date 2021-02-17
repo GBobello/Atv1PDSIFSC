@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 16 21:06:04 BRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-0177-ad4e-e3bf-000007779e18 
+on database directory C:\Users\bobel\Desktop\books_examples-20210216\books  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 
+Loaded from file:/C:/Program%20Files/Java/jdk1.7.0_80/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\bobel\Desktop\books_examples-20210216
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
